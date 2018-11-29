@@ -8,3 +8,9 @@
 exports.dubboTracer = {
 
 };
+
+exports.opentracing = {
+  carrier: {
+    RPC: require('../lib/carrier/rpc_carrier'),
+  },
+};
