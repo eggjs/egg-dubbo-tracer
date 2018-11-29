@@ -10,8 +10,8 @@ module.exports = {
   ],
   devdep: [
     'egg',
-    'egg-ci',
     'egg-bin',
+    'egg-rpc-generator',
     'autod',
     'autod-egg',
     'eslint',
@@ -19,7 +19,6 @@ module.exports = {
     'webstorm-disable-index',
   ],
   exclude: [
-    './test/fixtures',
     './docs',
     './coverage',
   ],
