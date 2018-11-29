@@ -16,9 +16,7 @@
     "eggPlugin",
     "egg-plugin"
   ],
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "autod": "^3.0.1",
     "autod-egg": "^1.1.0",
